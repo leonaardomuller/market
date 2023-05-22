@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "avaliacao-react",
+    "slug": "avaliacao-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
